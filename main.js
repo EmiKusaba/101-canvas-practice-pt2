@@ -13,8 +13,8 @@ const c = canvas.getContext('2d')
 
 let x = 500;
 let y = 500;
-let xVelocity = 8;
-let yVelocity = 8;
+let xVelocity = 12;
+let yVelocity = 12;
 let radius = 50;
 
 const animate = () => {
